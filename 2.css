@@ -1,0 +1,70 @@
+.pot {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 800px;
+  height: 600px;
+}
+.a {
+  display: flex;
+  gap: 20px;
+  width: 800px;
+  height: 200px;
+}
+.a1 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.a2 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.a3 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.b {
+  display: flex;
+  gap: 20px;
+  width: 800px;
+  height: 200px;
+}
+.b1 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.b2 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.b3 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.c {
+  display: flex;
+  gap: 20px;
+  width: 800px;
+  height: 200px;
+}
+.c1 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.c2 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
+.c3 {
+  background-color: blanchedalmond;
+  width: 250px;
+  height: 200px;
+}
